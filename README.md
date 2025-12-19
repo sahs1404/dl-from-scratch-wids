@@ -1,6 +1,4 @@
 # dl-from-scratch
-A Deep Learning Library made from scratch using just Python and NumPy.
+Course content for WiDS '25, titled "deep learning. from scratch. in code. spelled out."
 
-Inspired in structure and purpose from the [ml-by-hand](https://github.com/workofart/ml-by-hand) repo.
-
-Most concepts and topics covered in [Bishop book](https://www.bishopbook.com/) are covered. 
+For resources, check [here](https://melted-waltz-8bb.notion.site/WiDS-Resources-2c6459778ce58012aff8f50123fd1e3d). This repo contains code for all assinments. 
